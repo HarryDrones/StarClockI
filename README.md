@@ -1,1 +1,2 @@
 # StarClockI
+Click the lower left of screen and 3 COP's are drawn in red, green, blue.  These repesent the altitude observed for the stars, Arcturus, Vega, Dubhe.  These circles intersect and that intersection is the position of the observation.  Click the clock button and now youre inside the sphere.  Use the mouse to orient the view.  Use the mouse to align all the visible COP's by dragging in the upper right half of the screen.
