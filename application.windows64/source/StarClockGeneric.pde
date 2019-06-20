@@ -356,7 +356,7 @@ println("GreaterThan24:   ",RA);
 
  float   Y = map(radians(-dec),radians(0),radians(90),texture.height/2,texture.height - texture.height);
   texture.stroke(0,255,0);
-texture.strokeWeight(5);
+texture.strokeWeight(3);
 
 
 
